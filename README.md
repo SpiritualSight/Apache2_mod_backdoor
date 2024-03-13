@@ -1,8 +1,8 @@
 # Apache2_mod_backdoor
-Vulnerability exposure in php 7.30.4
+Vulnerability exposure in php 7.30.4 < 8.2.7
 
 # Usage:
-./php7_3_40_mod_backdoor.py TARGET_IP T_PORT RPORT
+./php_mod_backdoor.py TARGET_IP T_PORT RPORT
 
 ## Note:
 ### 1st Method 
